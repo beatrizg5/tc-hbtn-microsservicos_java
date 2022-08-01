@@ -1,0 +1,15 @@
+O que é Spring Boot Framework?
+
+Trata-se de mais um framework, mas talvez a melhor denominação seja micro framework. Como mencionado na introdução deste artigo, seu objetivo não é trazer novas soluções para problemas que já foram resolvidos, mas sim reaproveitar estas tecnologias e aumentar a produtividade do desenvolvedor. 
+O Spring Boot facilita a criação de aplicativos independentes baseados em Spring de nível de produção que você pode "apenas executar".
+
+A estrutura é especialmente adequada para aplicativos corporativos e financeiros devido à sua velocidade, segurança e sistemas de transação fáceis de construir. A estrutura
+Quais são os benefícios e recursos que Spring Boot fornece?
+
+
+
+Como é feita a adição de novas dependências (JPA, Hibernate, etc…) ?
+
+Na sua opinião, qual é a melhor IDE para trabalhar com o Spring Boot: Spring Tools Suites, IntelliJ IDEA, Eclipse ou NetBeans ?
+
+O que é Spring Initializr?
