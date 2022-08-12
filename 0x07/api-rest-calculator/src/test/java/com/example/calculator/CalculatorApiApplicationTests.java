@@ -1,13 +1,16 @@
 package com.example.calculator;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+package com.example.user;
 
-@SpringBootApplication
-public class CalculatorApiApplication {
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
-	public static void main(String[] args) {
-		SpringApplication.run(CalculatorApiApplication.class, args);
+@SpringBootTest
+class CalculatorApiApplicationTests {
+
+	@Test
+	void contextLoads() {
 	}
 
 }
+
